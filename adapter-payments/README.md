@@ -23,7 +23,7 @@ Refactor `OrderService` to accept a `PaymentGateway` and remove provider branchi
 
 ## Build & Run
 ```bash
-cd adapter-payments/src
+cd adapter-payments/cd
 javac com/example/payments/*.java
 java com.example.payments.App
 ```
